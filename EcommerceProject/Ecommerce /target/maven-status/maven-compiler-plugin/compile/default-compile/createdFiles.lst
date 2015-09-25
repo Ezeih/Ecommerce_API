@@ -1,0 +1,12 @@
+se/sleepdev/ecommerce/EcommerceManager.class
+se/sleepdev/ecommerce/service/RepositryException.class
+se/sleepdev/ecommerce/model/User.class
+se/sleepdev/ecommerce/service/OrderRep.class
+se/sleepdev/ecommerce/model/Order.class
+se/sleepdev/ecommerce/service/ProductRepository.class
+se/sleepdev/ecommerce/service/OrderRepository.class
+se/sleepdev/ecommerce/OrderTest.class
+se/sleepdev/ecommerce/service/UserRepository.class
+se/sleepdev/ecommerce/service/UserRep.class
+se/sleepdev/ecommerce/service/ProdRep.class
+se/sleepdev/ecommerce/model/Product.class
